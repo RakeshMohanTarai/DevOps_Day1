@@ -1,0 +1,27 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "jenkins_day1_pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RakeshMohanTarai/DevOps_Day1.git"
+  },
+  "author": "rakesh mohan tarai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RakeshMohanTarai/DevOps_Day1/issues"
+  },
+  "homepage": "https://github.com/RakeshMohanTarai/DevOps_Day1#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
